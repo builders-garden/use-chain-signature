@@ -12,7 +12,7 @@ bun add @buildersgarden/use-chain-signature # using bun
 
 The package is not available on NPM yet, so you can install it from the GitHub repository:
 
-````bash
+```bash
 git clone https://github.com/builders-garden/use-chain-signature
 ```
 
@@ -37,7 +37,7 @@ const Component = () => {
     <input value={derivation} onChange={(e) => setDerivation(e.target.value)} />
   );
 };
-````
+```
 
 ### 🎯 useInitWallet
 
