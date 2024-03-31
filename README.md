@@ -119,7 +119,3 @@ Please take a look at the `src/use-ethereum-signature.ts` file to see all the ex
 ## 👇 Contributing
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
-
-```
-
-```
