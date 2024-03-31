@@ -10,6 +10,14 @@ yarn add @buildersgarden/use-chain-signature # using yarn
 bun add @buildersgarden/use-chain-signature # using bun
 ```
 
+The package is not available on NPM yet, so you can install it from the GitHub repository:
+
+````bash
+git clone https://github.com/builders-garden/use-chain-signature
+```
+
+And link it to your project!
+
 ## 🛠️ Usage
 
 This package exports 4 easy-to-use hooks for your NEAR Chain Signatures integration.
@@ -29,7 +37,7 @@ const Component = () => {
     <input value={derivation} onChange={(e) => setDerivation(e.target.value)} />
   );
 };
-```
+````
 
 ### 🎯 useInitWallet
 
