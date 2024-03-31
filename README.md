@@ -82,7 +82,7 @@ const Component = () => {
 
 Please take a look at the `src/use-wallet.ts` file to see all the exported methods that you can use.
 
-### 📝 useChainSignature
+### 📝 useEthereumSignature
 
 The `useEthereumSignature` hook is the main hook that you will use to sign messages with the NEAR Wallet, leveraging the Chain Signature feature.
 
@@ -101,6 +101,12 @@ const Component = () => {
 ```
 
 Please take a look at the `src/use-ethereum-signature.ts` file to see all the exported methods that you can use.
+
+## 📋 TODO
+
+- [ ] Add tests
+- [ ] Bitcoin Signature integration
+- [ ] Expand documentation!
 
 ## 👇 Contributing
 
